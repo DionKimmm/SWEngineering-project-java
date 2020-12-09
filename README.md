@@ -18,5 +18,7 @@
 
 ## 스크린샷
 ![메인화면](https://github.com/DionKimmm/SWEngineering-project-java/blob/main/Screenshot/main.JPG "main")
+
 ![검색화면](https://github.com/DionKimmm/SWEngineering-project-java/blob/main/Screenshot/search.JPG "search")
+
 ![상세화면](https://github.com/DionKimmm/SWEngineering-project-java/blob/main/Screenshot/detail.JPG "detail")
